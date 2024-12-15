@@ -1,16 +1,13 @@
-## Hi there 👋
+![Logo](./assets/GitHub.png)
 
-<!--
-**nicholasrq/nicholasrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! Nick's here.
 
-Here are some ideas to get you started:
+I'm a principal software engineer and a big times nerd about all sorts of stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find out more about me here:
+- [YouTube](https://youtube.com/@NSKriabinDev)
+- [Telegram Channel](https://t.me/nick_skriabeen)
+- [X](https://x.com/nick_skriabin)
+
+I'm also a freelancer, so if you need a robust web app, hit me up!
+- [Contra](https://contra.com/nick_skriabin_a0upqrro)
