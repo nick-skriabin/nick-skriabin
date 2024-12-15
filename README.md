@@ -14,6 +14,6 @@ I'm also a freelancer, so if you need a robust web app, hit me up!
 
 Useful stuff:
 - [.dotfiles](https://github.com/nick-skriabin/dotfiles);
-- [QMK config](https://github.com/nick-skriabin/qmk_config);
+- [QMK config](https://github.com/nick-skriabin/qmk-config);
 - My Neovim plugins:
   * [commitment.nvim](github.com/nick-skriabin/commitment.nvim)
