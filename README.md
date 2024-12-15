@@ -11,3 +11,9 @@ You can find out more about me here:
 
 I'm also a freelancer, so if you need a robust web app, hit me up!
 - [Contra](https://contra.com/nick_skriabin_a0upqrro)
+
+Useful stuff:
+- [.dotfiles](https://github.com/nick-skriabin/dotfiles);
+- [QMK config](https://github.com/nick-skriabin/qmk_config);
+- My Neovim plugins:
+  * [commitment.nvim](github.com/nick-skriabin/commitment.nvim)
