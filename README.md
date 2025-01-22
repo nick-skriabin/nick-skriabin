@@ -16,5 +16,5 @@ Useful stuff:
 - [.dotfiles](https://github.com/nick-skriabin/dotfiles);
 - [QMK config](https://github.com/nick-skriabin/qmk-config);
 - My Neovim plugins:
-  * [commitment.nvim](github.com/nick-skriabin/commitment.nvim) - never forget to commit your changes ever again
-  * [timeline.nvim](github.com/nick-skriabin/timeline.nvim) - timestamps for script writers in your md files
+  * [commitment.nvim](https://github.com/nick-skriabin/commitment.nvim) - never forget to commit your changes ever again
+  * [timeline.nvim](https://github.com/nick-skriabin/timeline.nvim) - timestamps for script writers in your md files
