@@ -5,7 +5,7 @@ Hey! Nick's here.
 I'm a principal software engineer and a big times nerd about all sorts of stuff.
 
 You can find out more about me here:
-- [YouTube](https://youtube.com/@NSKriabinDev)
+- [YouTube](https://youtube.com/@nick-skriabin)
 - [Telegram Channel](https://t.me/nick_skriabeen)
 - [X](https://x.com/nick_skriabin)
 
