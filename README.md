@@ -15,6 +15,8 @@ I'm also a freelancer, so if you need a robust web app, hit me up!
 Useful stuff:
 - [.dotfiles](https://github.com/nick-skriabin/dotfiles);
 - [QMK config](https://github.com/nick-skriabin/qmk-config);
+- My current projects:
+  * [enva](github.com/nick-skriabin/enva) -- Per-directory env variables with auto load/unload and nice TUI
 - My Neovim plugins:
   * [commitment.nvim](https://github.com/nick-skriabin/commitment.nvim) - never forget to commit your changes ever again
   * [timeline.nvim](https://github.com/nick-skriabin/timeline.nvim) - timestamps for script writers in your md files
