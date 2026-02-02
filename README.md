@@ -9,9 +9,6 @@ You can find out more about me here:
 - [Telegram Channel](https://t.me/nick_skriabeen)
 - [X](https://x.com/nick_skriabin)
 
-I'm also a freelancer, so if you need a robust web app, hit me up!
-- [Contra](https://contra.com/nick_skriabin_a0upqrro)
-
 Useful stuff:
 - [.dotfiles](https://github.com/nick-skriabin/dotfiles);
 - [QMK config](https://github.com/nick-skriabin/qmk-config);
