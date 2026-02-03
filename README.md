@@ -12,8 +12,9 @@ You can find out more about me here:
 Useful stuff:
 - [.dotfiles](https://github.com/nick-skriabin/dotfiles);
 - [QMK config](https://github.com/nick-skriabin/qmk-config);
-- My current projects:
+- My open source projects:
   * [enva](github.com/nick-skriabin/enva) -- Per-directory env variables with auto load/unload and nice TUI
+  * [relic](github.com/nick-skriabin/relic) -- JS/TS secret manager for Edge and Node runtimes inspired by Rails Secrets
 - My Neovim plugins:
   * [commitment.nvim](https://github.com/nick-skriabin/commitment.nvim) - never forget to commit your changes ever again
   * [timeline.nvim](https://github.com/nick-skriabin/timeline.nvim) - timestamps for script writers in your md files
