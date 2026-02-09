@@ -16,6 +16,7 @@ Useful stuff:
   * [enva](https://github.com/nick-skriabin/enva) -- Per-directory env variables with auto load/unload and nice TUI
   * [relic](https://github.com/nick-skriabin/relic) -- JS/TS secret manager for Edge and Node runtimes inspired by Rails Secrets
   * [Glyph](https://github.com/nick-skriabin/glyph) -- Write TUI apps in React with the power of flexbox provided by Yoga
+  * [Aion](https://github.com/nick-skriabin/aion) -- TUI keyboard-driven Google Calendar
 - My Neovim plugins:
   * [commitment.nvim](https://github.com/nick-skriabin/commitment.nvim) - never forget to commit your changes ever again
   * [timeline.nvim](https://github.com/nick-skriabin/timeline.nvim) - timestamps for script writers in your md files
