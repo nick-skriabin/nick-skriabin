@@ -12,25 +12,25 @@
 
 ---
 
-### Open Source Projects
+### 📦 Open Source Projects
 
 | Project | Description |
 |---------|-------------|
-| [enva](https://github.com/nick-skriabin/enva) | Per-directory env variables with auto load/unload and nice TUI |
-| [relic](https://github.com/nick-skriabin/relic) | JS/TS secret manager for Edge and Node runtimes inspired by Rails Secrets |
-| [Glyph](https://github.com/nick-skriabin/glyph) | Write TUI apps in React with the power of flexbox provided by Yoga |
-| [Aion](https://github.com/nick-skriabin/aion) | TUI keyboard-driven Google Calendar |
+| 🌿 [enva](https://github.com/nick-skriabin/enva) | Per-directory env variables with auto load/unload and nice TUI |
+| 🔐 [relic](https://github.com/nick-skriabin/relic) | JS/TS secret manager for Edge and Node runtimes inspired by Rails Secrets |
+| ✍️ [Glyph](https://github.com/nick-skriabin/glyph) | Write TUI apps in React with the power of flexbox provided by Yoga |
+| 📅 [Aion](https://github.com/nick-skriabin/aion) | TUI keyboard-driven Google Calendar |
 
-### Neovim Plugins
+### 🧩 Neovim Plugins
 
 | Plugin | Description |
 |--------|-------------|
-| [commitment.nvim](https://github.com/nick-skriabin/commitment.nvim) | Never forget to commit your changes ever again |
-| [timeline.nvim](https://github.com/nick-skriabin/timeline.nvim) | Timestamps for script writers in your md files |
+| 💾 [commitment.nvim](https://github.com/nick-skriabin/commitment.nvim) | Never forget to commit your changes ever again |
+| ⏱️ [timeline.nvim](https://github.com/nick-skriabin/timeline.nvim) | Timestamps for script writers in your md files |
 
-### Configs
+### ⚙️ Configs
 
 | Repo | Description |
 |------|-------------|
-| [.dotfiles](https://github.com/nick-skriabin/dotfiles) | My dotfiles |
-| [QMK config](https://github.com/nick-skriabin/qmk-config) | Custom keyboard firmware config |
+| 🗂️ [.dotfiles](https://github.com/nick-skriabin/dotfiles) | My dotfiles |
+| ⌨️ [QMK config](https://github.com/nick-skriabin/qmk-config) | Custom keyboard firmware config |
