@@ -12,6 +12,12 @@
 
 ---
 
+### 👋 Hey! Nick's here.
+
+I'm a principal software engineer and a big time nerd about all sorts of stuff. I love building TUI apps, tinkering with Neovim, crafting custom keyboard firmware, and writing TypeScript for fun and profit. If it runs in a terminal — I'm probably into it.
+
+---
+
 ### 📦 Open Source Projects
 
 | Project | Description |
