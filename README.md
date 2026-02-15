@@ -24,8 +24,9 @@ I'm a principal software engineer and a big time nerd about all sorts of stuff. 
 |---------|-------------|
 | 🌿 [enva](https://github.com/nick-skriabin/enva) | Per-directory env variables with auto load/unload and nice TUI |
 | 🔐 [relic](https://github.com/nick-skriabin/relic) | JS/TS secret manager for Edge and Node runtimes inspired by Rails Secrets |
-| ✍️ [Glyph](https://github.com/nick-skriabin/glyph) | Write TUI apps in React with the power of flexbox provided by Yoga |
-| 📅 [Aion](https://github.com/nick-skriabin/aion) | TUI keyboard-driven Google Calendar |
+|  ✍️ [Glyph](https://github.com/semos-labs/glyph) | Write TUI apps in React with the power of flexbox provided by Yoga |
+| 📅 [Aion](https://github.com/semos-labs/aion) | TUI keyboard-driven Google Calendar |
+| 📨 [Epist](https://github.com/semos-labs/epist) | Gmail Client for your terminal |
 
 ### 🧩 Neovim Plugins
 
