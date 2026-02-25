@@ -27,6 +27,7 @@ I'm a principal software engineer and a big time nerd about all sorts of stuff. 
 |  ✍️ [Glyph](https://github.com/semos-labs/glyph) | Write TUI apps in React with the power of flexbox provided by Yoga |
 | 📅 [Aion](https://github.com/semos-labs/aion) | TUI keyboard-driven Google Calendar |
 | 📨 [Epist](https://github.com/semos-labs/epist) | Gmail Client for your terminal |
+| 💻 [Attyx](https://github.com/semos-labs/attyx) | Fast and tiny GPU-accelerated terminal emulator written in Zig |
 
 ### 🧩 Neovim Plugins
 
